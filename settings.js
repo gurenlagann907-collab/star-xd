@@ -11,7 +11,7 @@ export default {
 
   // If you don't have session id, use pairing code
   // Put your WhatsApp number here (without +)
-  PAIRING_NUMBER: "2290161171335",
+  PAIRING_NUMBER: "22961171335",
   
   SESSION_SITE: "https://pair.malvintech.sbs",
 
@@ -45,7 +45,7 @@ export default {
   BOT_NAME: "sᴛᴀʀ-xᴅ",
 
   // Add Owner WhatsApp Number (without +)
-  OWNER_NUMBER: "2290161171335",
+  OWNER_NUMBER: "22961171335",
 
   // Command Mode: "public" or "private"
   // private = only owner can use commands
